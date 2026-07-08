@@ -3,10 +3,9 @@
         {
             "name": "Win32",
             "includePath": [
-                "\"includePath\": [",
-                "    \"${workspaceRoot}/**\",",
-                "    \"C:/Users/KULLANICI_ADIN/Documents/Arduino/libraries/Adafruit_NeoPixel/**\"",
-                "]"
+                "${workspaceFolder}/**",
+                "C:/Users/Atakan/Documents/Arduino/libraries/**",
+                "C:/Users/Atakan/.platformio/lib/**"
             ],
             "defines": [
                 "_DEBUG",
