@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "\"includePath\": [",
+                "    \"${workspaceRoot}/**\",",
+                "    \"C:/Users/KULLANICI_ADIN/Documents/Arduino/libraries/Adafruit_NeoPixel/**\"",
+                "]"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        }
+    ],
+    "version": 4
+}
