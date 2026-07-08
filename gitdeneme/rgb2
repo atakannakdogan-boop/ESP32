@@ -13,7 +13,7 @@ void setup() {
 
 void loop() {
 
-  e
+  /*
   // Kırmızı
   for(int i=0;i<=255;i++){
 
@@ -30,6 +30,7 @@ void loop() {
 
   }
    delay(10);
+   */
   // Yeşil
     for(int i=0;i<=255;i++){
 
